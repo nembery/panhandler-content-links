@@ -11,3 +11,8 @@ links:
       A basic Internet Gateway set of skillets including an IronSkillet baseline and 2-zone gold 
       security configuration. Ideal for starter deployments and SE PA-220 home usage.
     documentation_link: https://github.com/scotchoaf/HomeSkillet
+  - name: Cloud Security Framework
+    link: https://github.com/wwce/terraform
+    branch: master
+    description: >
+      A collection of skillets to deploy and demonstrate PaloAltoNetworks capabilites in public cloud environments.
