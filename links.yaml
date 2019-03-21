@@ -14,5 +14,6 @@ links:
   - name: Cloud Security Framework
     link: https://github.com/wwce/terraform
     branch: master
+    documentation_link: https://github.com/wwce/terraform
     description: >
       A collection of skillets to deploy and demonstrate PaloAltoNetworks capabilites in public cloud environments.
