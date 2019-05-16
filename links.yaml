@@ -1,16 +1,16 @@
 links:
   - name: Global Protect Skillets
     link: https://github.com/PaloAltoNetworks/GPSkillets
-    branch: 90dev
+    branch: panos_v9.0
     description: Configuration templates for GlobalProtect mobile users
     documentation_link: https://github.com/PaloAltoNetworks/GPSkillets
   - name: Home Skillets
-    link: https://github.com/scotchoaf/HomeSkillet.git
-    branch: 90dev
+    link: https://github.com/PaloAltoNetworks/HomeSkillet.git
+    branch: panos_v9.0
     description: >
       A basic Internet Gateway set of skillets including an IronSkillet baseline and 2-zone gold 
       security configuration. Ideal for starter deployments and SE PA-220 home usage.
-    documentation_link: https://github.com/scotchoaf/HomeSkillet
+    documentation_link: https://homeskillet.readthedocs.io/en/panos_v9.0/
   - name: Cloud Security Framework
     link: https://github.com/wwce/terraform
     branch: master
