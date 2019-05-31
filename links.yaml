@@ -1,7 +1,7 @@
 links:
   - name: Global Protect Skillets
     link: https://github.com/PaloAltoNetworks/GPSkillets
-    branch: panos_v9.0
+    branch: panos_v90
     description: Configuration templates for GlobalProtect mobile users
     documentation_link: https://github.com/PaloAltoNetworks/GPSkillets
   - name: Home Skillets
