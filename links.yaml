@@ -22,3 +22,8 @@ links:
     documentation_link: https://github.com/wwce/terraform
     description: >
       A collection of skillets to deploy and demonstrate PaloAltoNetworks capabilites in public cloud environments.
+  - name: Skillet Builder Tools
+    link: https://github.com/PaloAltoNetworks/SkilletBuilder.git
+    branch: master
+    description: Tools to help build and test Skillets
+    documentation_link: https://github.com/PaloAltoNetworks/SkilletBuilder/blob/master/README.md
