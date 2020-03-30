@@ -1,9 +1,9 @@
 links:
-  - name: Example Skillets
-    link: https://github.com/PaloAltoNetworks/Example_Skillets
+  - name: Prisma Access Skillets
+    link: https://github.com/PaloAltoNetworks/prisma-access-skillets.git
     branch: master
-    description: Example Skillets with examples for REST, Python, Terraform, and PAN-OS skillet types
-    documentation_link: https://github.com/PaloAltoNetworks/Example_Skillets/blob/master/README.md
+    description: https://github.com/PaloAltoNetworks/prisma-access-skillets.git
+    documentation_link: https://github.com/PaloAltoNetworks/prisma-access-skillets/blob/master/README.md
   - name: Global Protect Skillets
     link: https://github.com/PaloAltoNetworks/GPSkillets
     branch: panos_v90
