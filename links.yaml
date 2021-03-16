@@ -4,26 +4,22 @@ links:
     branch: master
     description: https://github.com/PaloAltoNetworks/prisma-access-skillets.git
     documentation_link: https://github.com/PaloAltoNetworks/prisma-access-skillets/blob/master/README.md
-  - name: Global Protect Skillets
-    link: https://github.com/PaloAltoNetworks/GPSkillets
-    branch: panos_v90
-    description: Configuration templates for GlobalProtect mobile users
-    documentation_link: https://github.com/PaloAltoNetworks/GPSkillets
+  - name: CIS Benchmarks
+    link: https://gitlab.com/panw-gse/as/cis-benchmarks.git
+    branch: master
+    description: >
+      this solution allows a user to query PAN-OS NGFW configuration and system
+      information to determine alignment with the CIS benchmarks.
+    documentation_link: https://gitlab.com/panw-gse/as/cis-benchmarks.git
   - name: Home Skillets
     link: https://github.com/PaloAltoNetworks/HomeSkillet.git
     branch: panos_v9.0
     description: >
       A basic Internet Gateway set of skillets including an IronSkillet baseline and 2-zone gold 
       security configuration. Ideal for starter deployments and SE PA-220 home usage.
-    documentation_link: https://homeskillet.readthedocs.io/en/panos_v9.0/
-  - name: Cloud Security Framework
-    link: https://github.com/wwce/terraform
-    branch: master
-    documentation_link: https://github.com/wwce/terraform
-    description: >
-      A collection of skillets to deploy and demonstrate PaloAltoNetworks capabilites in public cloud environments.
+    documentation_link: https://homeskillet.readthedocs.io/en/latest/
   - name: Skillet Builder Tools
     link: https://github.com/PaloAltoNetworks/SkilletBuilder.git
     branch: master
-    description: Tools to help build and test Skillets
+    description: A suite of tools to ease working with the PAN-OS NGFW XML configuration
     documentation_link: https://github.com/PaloAltoNetworks/SkilletBuilder/blob/master/README.md
