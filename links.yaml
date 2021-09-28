@@ -5,7 +5,7 @@ links:
     description: https://github.com/PaloAltoNetworks/prisma-access-skillets.git
     documentation_link: https://github.com/PaloAltoNetworks/prisma-access-skillets/blob/master/README.md
   - name: CIS Benchmarks
-    link: https://gitlab.com/panw-gse/as/cis-benchmarks.git
+    link: https://github.com/PaloAltoNetworks/cis-benchmarks.git
     branch: master
     description: >
       this solution allows a user to query PAN-OS NGFW configuration and system
